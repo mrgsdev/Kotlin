@@ -5,8 +5,8 @@ Kotlin — современный язык программирования, к�
 ## Этап 1: Основы Kotlin (2-3 недели)
 
 ### Неделя 1: Знакомство с языком
-- [x] Установка среды разработки (IntelliJ IDEA или Android Studio)
-- Синтаксис языка и его отличия от других языков
+- [x] [Установка среды разработки (IntelliJ IDEA или Android Studio)](https://github.com/mrgsdev/Kotlin/blob/main/Theory/install-kotlin-dev-environment.md)
+- [x] [Синтаксис языка и его отличия от других языков](https://github.com/mrgsdev/Kotlin/blob/main/Theory/kotlin-vs-swift-syntax.md)
 - [x] [Переменные и типы данных (val, var, String, Int, Boolean)](https://github.com/mrgsdev/Kotlin/blob/main/Theory/1kotlin-variables-types.md)
 - Условные выражения (if, when)
 - Циклы (for, while, do-while)
