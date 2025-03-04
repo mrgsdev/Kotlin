@@ -10,7 +10,7 @@ Kotlin — современный язык программирования, к�
 - [x] [Установка среды разработки (IntelliJ IDEA или Android Studio)](https://github.com/mrgsdev/Kotlin/blob/main/Theory/install-kotlin-dev-environment.md)
 - [x] [Синтаксис языка и его отличия от других языков](https://github.com/mrgsdev/Kotlin/blob/main/Theory/kotlin-vs-swift-syntax.md)
 - [x] [Переменные и типы данных (val, var, String, Int, Boolean)](https://github.com/mrgsdev/Kotlin/blob/main/Theory/1kotlin-variables-types.md)
-- [x] [Условные выражения (if, when)]()
+- [x] [Условные выражения (if, when)](https://github.com/mrgsdev/Kotlin/blob/main/Theory/kotlin-conditionals.md)
 - Циклы (for, while, do-while)
 - Функции и их объявление
 - Практика: создание простых консольных приложений
